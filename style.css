@@ -108,3 +108,14 @@
         margin-top: 20px;
     }
 }
+@media (max-width: 912px) {
+    .first-p{
+        margin-left: -127px;
+    }
+    .image-first-container {
+        margin-left: -60px;
+    }
+    .image-second-container{
+        margin-left: -60px;
+    }
+}
